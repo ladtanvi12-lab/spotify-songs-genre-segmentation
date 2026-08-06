@@ -53,7 +53,6 @@ SpotifyGenreSegmentation/
 │── Spotify_Clustered_Results.csv.csv
 │── scaler.pkl
 │── kmeans_model.pkl
-│── requirements.txt
 │── README.md
 │── spotify_logo.png (optional)
 
@@ -181,7 +180,7 @@ The application displays:
 
 **Tanvi Lad**
 
-Final Year Machine Learning Project
+Artificial Intelligence and Machine Learning Project
 
 ---
 
@@ -201,6 +200,3 @@ This project is developed for **educational and academic purposes**.
 
 ---
 
-## ⭐ Acknowledgement
-
-I would like to express my sincere gratitude to my project guide, faculty members, and institution for their valuable guidance and support throughout the development of this project. I also acknowledge the open-source community and the developers of Python, Streamlit, Pandas, NumPy, and Scikit-learn for providing excellent tools and resources that made this project possible.
